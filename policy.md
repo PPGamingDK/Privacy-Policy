@@ -13,4 +13,4 @@ Ved download af Chrome-udvidelsen *Stavox Lookup+* accepterer du Googles vilkår
 Udvikleren fraskriver sig ansvaret for udvidelsens ageren, adfærd og for evt. datatab. Der kan ikke rejses erstatsningskrav i mod udvikleren for fejl, mangler eller lignende. Der kan ikke forventes support/vedligeholdelse på udvidelsen fra udviklerens side.
 
 ### Andet
-Spørgsmål? Kontakt mig på `PPGamingDK18@gmail.com
+Spørgsmål? Kontakt mig på `PPGamingDK18@gmail.com`
